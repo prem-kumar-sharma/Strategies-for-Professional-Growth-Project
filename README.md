@@ -13,12 +13,12 @@ EntrepreneuREAL is a research project that delves into the realities of entrepre
 ### Team 26 Members
 | Name | Roll Number | Role |
 |------|-------------|------|
-| Dev Khatri | 21f3001150 | Team Leader |
-| Satish Jaiswal | 21f2000142 | Team Member |
-| Prem Kumar | 21f1000531 | Team Member |
-| Shrirang Sapate | 21f1002870 | Team Member |
-| Srishti Singh | 21f1006972 | Team Member |
-| Pranav R | 21f1004199 | Team Member |
+| Dev Khatri | 21f3001150 |
+| Satish Jaiswal | 21f2000142 |
+| Prem Kumar | 21f1000531 |
+| Shrirang Sapate | 21f1002870 |
+| Srishti Singh | 21f1006972 |
+| Pranav R | 21f1004199 |
 
 ## Project Objectives
 1. **Comprehensive Understanding**: Provide thorough understanding of business planning, financial management, economic principles, innovation, scalability, legal considerations, marketing, and leadership
