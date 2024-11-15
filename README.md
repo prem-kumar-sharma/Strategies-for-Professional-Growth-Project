@@ -11,8 +11,8 @@ Video: https://drive.google.com/file/d/1jSEEzmXlAJcrDWlzl5yL3NaCsMsjRz_e/view?us
 EntrepreneuREAL is a research project that delves into the realities of entrepreneurship beyond the glamour, providing practical insights and strategies essential for startup success. Through interviews with industry leaders and analysis of key research articles, we explore the challenges and strategies crucial for entrepreneurial ventures.
 
 ### Team 26 Members
-| Name | Roll Number | Role |
-|------|-------------|------|
+| Name | Roll Number |
+|------|-------------|
 | Dev Khatri | 21f3001150 |
 | Satish Jaiswal | 21f2000142 |
 | Prem Kumar | 21f1000531 |
